@@ -1,0 +1,12 @@
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\GPWStocksHandler.exe
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\GPWStocksHandler.dll
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\GPWStocksHandler.deps.json
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\GPWStocksHandler.runtimeconfig.json
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\GPWStocksHandler.pdb
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\HtmlAgilityPack.dll
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
