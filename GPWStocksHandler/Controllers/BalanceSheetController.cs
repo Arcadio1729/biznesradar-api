@@ -2,6 +2,7 @@
 using HtmlAgilityPack;
 using System.Text;
 using System.Text.Json;
+using GPWStocksHandler.Services;
 
 namespace GPWStocksHandler.Controllers
 {
@@ -9,20 +10,24 @@ namespace GPWStocksHandler.Controllers
     [Route("api/balance-sheet")]
     public class BalanceSheetController : ControllerBase
     {
+        private readonly IBalanceSheetService _balanceSheetService;
+
+        public BalanceSheetController(IBalanceSheetService balanceSheetService)
+        {
+            this._balanceSheetService = balanceSheetService;
+        }
+
         [HttpGet]
-        [Route("current-assets")]
-        public async Task<IActionResult> GetAssets(string ticker="CPS")
+        [Route("current-assets/{ticker}")]
+        public async Task<IActionResult> GetAssets([FromRoute]string ticker="CPS")
         {
             using var client = new HttpClient();
 
             string url = $"https://www.biznesradar.pl/raporty-finansowe-bilans/{ticker}"; 
-
             string html = await client.GetStringAsync(url);
 
-            
-            return Ok(GetTable(html));
+            return Ok(this._balanceSheetService.GetBalanceSheetTable(html));
         }
-
 
         private string GetTable(string html)
         {

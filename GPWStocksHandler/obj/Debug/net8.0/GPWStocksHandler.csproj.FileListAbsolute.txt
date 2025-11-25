@@ -34,3 +34,4 @@ C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Debug\net8.0\GPWStocksHandler.pdb
 C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Debug\net8.0\GPWStocksHandler.genruntimeconfig.cache
 C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Debug\net8.0\ref\GPWStocksHandler.dll
 C:\ja\my\GPWStocksHandler\GPWStocksHandler\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\ja\my\GPWStocksHandler\GPWStocksHandler\obj\Debug\net8.0\GPWStocksHandler.sourcelink.json

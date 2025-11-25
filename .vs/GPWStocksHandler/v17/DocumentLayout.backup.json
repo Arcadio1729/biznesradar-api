@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\ja\\my\\GPWStocksHandler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|c:\\ja\\my\\gpwstockshandler\\gpwstockshandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|solutionrelative:gpwstockshandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|c:\\ja\\my\\gpwstockshandler\\gpwstockshandler\\controllers\\balancesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|solutionrelative:gpwstockshandler\\controllers\\balancesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|c:\\ja\\my\\gpwstockshandler\\gpwstockshandler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|solutionrelative:gpwstockshandler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|c:\\ja\\my\\gpwstockshandler\\gpwstockshandler\\services\\balancesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|solutionrelative:gpwstockshandler\\services\\balancesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|c:\\ja\\my\\gpwstockshandler\\gpwstockshandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|solutionrelative:gpwstockshandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D994691D-7C36-4392-B29B-C280C265322A}|GPWStocksHandler\\GPWStocksHandler.csproj|c:\\ja\\my\\gpwstockshandler\\gpwstockshandler\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "BalanceSheetService.cs",
+              "DocumentMoniker": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Services\\BalanceSheetService.cs",
+              "RelativeDocumentMoniker": "GPWStocksHandler\\Services\\BalanceSheetService.cs",
+              "ToolTip": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Services\\BalanceSheetService.cs*",
+              "RelativeToolTip": "GPWStocksHandler\\Services\\BalanceSheetService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:51:00.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "GPWStocksHandler\\WeatherForecast.cs",
@@ -54,33 +71,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Program.cs",
               "RelativeDocumentMoniker": "GPWStocksHandler\\Program.cs",
               "ToolTip": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Program.cs",
               "RelativeToolTip": "GPWStocksHandler\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T12:18:24.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BalanceSheetController.cs",
               "DocumentMoniker": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Controllers\\BalanceSheetController.cs",
               "RelativeDocumentMoniker": "GPWStocksHandler\\Controllers\\BalanceSheetController.cs",
-              "ToolTip": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Controllers\\BalanceSheetController.cs",
-              "RelativeToolTip": "GPWStocksHandler\\Controllers\\BalanceSheetController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Controllers\\BalanceSheetController.cs*",
+              "RelativeToolTip": "GPWStocksHandler\\Controllers\\BalanceSheetController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T22:52:26.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\ja\\my\\GPWStocksHandler\\GPWStocksHandler\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "GPWStocksHandler\\Controllers\\WeatherForecastController.cs",
@@ -88,7 +105,8 @@
               "RelativeToolTip": "GPWStocksHandler\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:51:53.638Z"
+              "WhenOpened": "2025-11-07T22:51:53.638Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/balance-sheet/current-assets": {
+    "/api/balance-sheet/current-assets/{ticker}": {
       "get": {
         "tags": [
           "BalanceSheet"
@@ -13,7 +13,8 @@
         "parameters": [
           {
             "name": "ticker",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "default": "CPS"
