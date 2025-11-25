@@ -1,0 +1,21 @@
+name: CI/CD Pipeline
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Checkout repository
+        run: echo Hello world!
+      - name: Run multiline script
+        run: 
+          echo run multiline script
+          echo run my first pipe
+        
